@@ -3,10 +3,21 @@
 nav {
   transition: all 400ms;
   z-index: 1;
+ // width: 50% !important;
+  gap: 4rem !important;
+  margin: auto;
+  margin-top: 10px;
+  background: white;
+  border-top-right-radius: 120px;
+  border-top-left-radius: 120px;
+  border-bottom-right-radius: 120px;
+  border-bottom-left-radius: 120px;
+  box-shadow: 1px 0px 16px #0000006e;
 }
 
 .dark {
-  background-color: $dark;
+  background-color: #e8e8e817;
+  
 }
 
 
